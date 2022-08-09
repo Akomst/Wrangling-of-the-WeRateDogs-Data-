@@ -18,3 +18,5 @@ Three different data were collected
 ## Reports 
 - __wragle_report__ describes the data gathering, assessment and cleaning acts.
 - __act_report.ipynb__ is the insight report after the wrangling act
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Akomst/Wrangling-of-the-WeRateDogs-Data-/HEAD)
